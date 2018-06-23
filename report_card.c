@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#to make diff for version control test
 int main()
 {
 	int kor, eng, math;
