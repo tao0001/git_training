@@ -4,6 +4,8 @@
 #
 #try again
 #
+#try 3rd
+#
 int main()
 {
 	int kor, eng, math;
